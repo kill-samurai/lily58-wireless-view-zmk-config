@@ -63,8 +63,8 @@
             display-name = "Raise";
             bindings = <
 &trans     &trans  &trans  &trans   &trans   &trans                     &trans    &trans     &kp K_MUTE      &kp C_VOL_DN    &kp C_VOLUME_UP  &kp DELETE
-&kp GRAVE  &kp N1  &kp N2  &kp N3   &kp N4   &kp N5                     &kp PLUS  &kp EQUAL  &trans          &kp UP_ARROW    &trans           &trans
-&trans     &kp F2  &kp F3  &kp F4   &kp F5   &kp F6                     &trans    &trans     &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans
+&kp GRAVE  &kp N1  &kp N2  &kp N3   &kp N4   &kp N5                     &trans    &trans     &trans          &kp UP_ARROW    &trans           &trans
+&trans     &kp F2  &kp F3  &kp F4   &kp F5   &kp F6                     &kp PLUS  &kp EQUAL  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans
 &trans     &kp F8  &kp F9  &kp F10  &kp F11  &kp F12  &trans    &trans  &trans    &trans     &trans          &kp LBKT        &kp RBKT         &kp BSLH
                            &trans   &trans   &trans   &trans    &trans  &trans    &trans     &trans
             >;
